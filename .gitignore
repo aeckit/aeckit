@@ -1,0 +1,12 @@
+# Packaging and Distribution
+build/
+dist/
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+
+# OS / Editors
+.DS_Store
+.vscode/

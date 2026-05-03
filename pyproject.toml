@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aeckit"
+version = "0.0.1"
+description = "Placeholder package for the aeckit namespace."
+readme = "README.md"
+authors = [
+    { name = "Nguyen Ngo", email = "mnguyenngo@gmail.com" }
+]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+]
+requires-python = ">=3.9"
