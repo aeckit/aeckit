@@ -1,0 +1,24 @@
+{
+  "name": "aeckit",
+  "version": "0.0.1",
+  "description": "Placeholder package to secure the aeckit namespace on npm.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aeckit/aeckit.git"
+  },
+  "keywords": [
+    "aeckit",
+    "dac",
+    "drawings-as-code",
+    "cad",
+    "bim",
+    "architecture",
+    "engineering"
+  ],
+  "author": "Nguyen Ngo <mnguyenngo@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
